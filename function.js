@@ -1,5 +1,5 @@
 const fetch = require('node-fetch')
-// Hacked By Fusti
+
 function urlsorgu(str) {
   var pattern = new RegExp('^(https?:\\/\\/)?'+ 
     '((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|'+ 
